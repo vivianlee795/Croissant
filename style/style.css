@@ -1,11 +1,14 @@
 body {
+    background: #fffaf1;
     line-height: 1.5;
     text-align:center}
 p {
     font-size: 18px;
 }
-    a {
+a {
     color:black;
     display:block;
     opacity: 0.8;
     text-decoration: none;}
+
+img {max-width: 400px;}
